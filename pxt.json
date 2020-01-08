@@ -1,0 +1,20 @@
+{
+    "name": "makecode",
+    "files": [
+        "EV3/README.md",
+        "EV3/WVPL/README.md",
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "dependencies": {
+        "ev3": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "ev3"
+    ]
+}
